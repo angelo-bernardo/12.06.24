@@ -1,0 +1,1 @@
+INSERT INTO `db_java_codel`.`tbl_alunos` (`cpf`, `nome`, `data_de_nascimento`, `estado_civil`, `escolaridade`, `logradouro`, `endereco`, `numero`, `complemento`) VALUES ('1098765432', 'Néia', '07/02/1967', 'Casado', 'Médio', 'Avenida', 'Rio Branco', '153', 'Casa');

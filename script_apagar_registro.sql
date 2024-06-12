@@ -1,0 +1,1 @@
+DELETE FROM `db_java_codel`.`tbl_alunos` WHERE (`id` = '3');
